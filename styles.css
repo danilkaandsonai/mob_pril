@@ -1,0 +1,15 @@
+ul{
+    text-align: center;
+}
+.bob{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 15px;
+    background-color: rgb(255, 0, 200);
+}
+
+.bobc{
+    display: inline-block;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
